@@ -1,6 +1,6 @@
 # Olá, sou o Henrique Leguisano👨‍💻
 
-Atualmente em formação na trilha **"AWS AI Services Development for Commerce on AWS"**, com foco no uso de inteligência artificial aplicada ao comércio eletrônico na nuvem. Sou entusiasta de tecnologia e estou sempre em busca de aprender mais sobre computação em nuvem, IA e desenvolvimento de soluções inovadoras.
+Atualmente em formação na Pós-Graduação **"Desenvolvimento Full Stack"**, Com foco em desenvolvimento web. Sou entusiasta de tecnologia e estou sempre em busca de aprender mais sobre computação em nuvem, IA e desenvolvimento de soluções inovadoras.
 
 ### 👀Estou buscando uma oportunidade para crescer profissionalmente e aplicar meus conhecimentos em projetos reais.👀
 
